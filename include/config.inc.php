@@ -5,10 +5,10 @@
 	
 	# configuration for database
 	$_config['database']['hostname'] = "localhost";
-	$_config['database']['username'] = "pnkacth_saais";
-	$_config['database']['password'] = "pnkacth_saais";
+	$_config['database']['username'] = "root";
+	$_config['database']['password'] = "12345678";
 	// $_config['database']['password'] = "meroot";
-	$_config['database']['database'] = "pnkacth_saais";
+	$_config['database']['database'] = "pnk";
 		
 	# configuration for module grade
 	$_config['grade'] = array("tc004","admin","tc208");
